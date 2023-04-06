@@ -1,7 +1,5 @@
 Author: Yavuz Selim Suzen 
 
-Student Number: 101215831
-
 List of files:	defs.h Location.cc Location.h Order.cc Order.h Queue.cc Queue.h Entity.cc Entity.h Driver.cc
                 Driver.h Franchise.cc Franchise.h main.cc Pierres.cc Pierres.h Controller.cc Controller.h
                 View.cc View.h Makefile README.txt 
